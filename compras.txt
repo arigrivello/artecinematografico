@@ -2,3 +2,6 @@ naranjas
 batatas
 caramelos
 galletitas
+mandarina 
+uvas
+ciruelas
